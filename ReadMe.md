@@ -11,6 +11,18 @@ presented. However, the information contained in this repo is presented without 
 implied. I am not be held liable for any damages caused or alleged to have been caused directly or indirectly by this repo.
 
 
+## Prerequisite
+
+Make sure you have the following installed.
+
+```
+F:\Repos\CodegenBug>dotnet tool  list --global 
+Package Id                       Version      Commands
+-------------------------------------------------------------------------
+dotnet-aspnet-codegenerator      8.0.0        dotnet-aspnet-codegenerator
+dotnet-ef                        8.0.0        dotnet-ef
+```
+
 ## Problem Description
 
 To illustrate the problem, I make 4 projects as follows:
