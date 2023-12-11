@@ -1,4 +1,4 @@
-This repo is being used for bug report at (updated later).
+This repo is being used for bug report at https://github.com/dotnet/Scaffolding/issues/2596.
 I keep it only for 1 year and it will be removed after December 11, 2024.
 Duplicate this repo if you think it is useful for the future.
 No attribution is needed. 
